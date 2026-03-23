@@ -1,3 +1,11 @@
+# RoadTTD
+
+> Transport Tycoon for network packet routing visualization
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem. Forked from [`OpenTTD/OpenTTD`](https://github.com/OpenTTD/OpenTTD).
+
+---
+
 # OpenTTD
 
 ## Table of contents
